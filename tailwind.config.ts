@@ -12,6 +12,11 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
         "light-green": "#AEEC66",
+        green: "#407700",
+      },
+      backgroundColor: {
+        green: "#01130D",
+        "dark-green": "#407700",
       },
     },
     fontFamily: {
@@ -22,4 +27,3 @@ const config: Config = {
   plugins: [],
 };
 export default config;
-//"Inter", sans-serif
