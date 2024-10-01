@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 import { useIsMobile } from "@zipzap/hooks/useIsMobile";
+import Link from "next/link";
 
 import cs1 from "../../../../public/cs1.png";
 import cs2 from "../../../../public/cs2.png";
