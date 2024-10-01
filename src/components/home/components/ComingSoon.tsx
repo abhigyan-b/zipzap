@@ -21,9 +21,11 @@ export const ComingSoon = () => {
 
       <div className="flex flex-col items-center justify-center gap-4 justify-center text-lg md:text-xl text-light-green font-normal">
         Join 50+ beta testers
-        <button className="py-3 md:py-4 px-6 md:px-10 bg-dark-green text-white rounded-2xl font-bold">
-          Get early access
-        </button>
+        <Link href="https://forms.gle/zMyNUGuY9a4buhZU9">
+          <button className="py-3 md:py-4 px-6 md:px-10 bg-dark-green text-white rounded-2xl font-bold">
+            Get early access
+          </button>
+        </Link>
       </div>
 
       <Image
