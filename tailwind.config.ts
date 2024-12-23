@@ -13,10 +13,18 @@ const config: Config = {
         foreground: "var(--foreground)",
         "light-green": "#AEEC66",
         green: "#407700",
+        "exp-1": "#BCFFE7",
+        "exp-2": "#68FFC9",
+        "exp-3": "#1CC286",
+        "exp-4": "#09885A",
       },
       backgroundColor: {
         green: "#01130D",
         "dark-green": "#407700",
+        "exp-1": "#BCFFE7",
+        "exp-2": "#68FFC9",
+        "exp-3": "#1CC286",
+        "exp-4": "#09885A",
       },
     },
     fontFamily: {
