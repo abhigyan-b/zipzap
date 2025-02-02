@@ -14,7 +14,7 @@ export const Hero = () => {
     <div className="flex flex-col items-center justify-center gap-8 md:gap-12 px-8 md:px-20 w-full text-center h-screen">
       <Image src={logo} alt="hero logo image" width={500} />
       <div className="flex justify-center text-2xl md:text-4xl text-light-green font-semibold md:font-bold">
-        Connecting people through games
+        Connecting people through games.
       </div>
       <div className="flex justify-center text-base text-white font-normal">
         Discover and play your next favorite game all in one place. No need to
