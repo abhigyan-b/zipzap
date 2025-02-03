@@ -14,15 +14,15 @@ export const ComingSoon = () => {
   return (
     <div className="flex flex-col items-center justify-center gap-8 md:gap-12 relative w-full">
       <div className="flex justify-center text-4xl md:text-8xl text-light-green font-bold">
-        Coming Soon
+        Coming Soon on playstore
       </div>
       {/* <div className="flex justify-center text-base text-white font-normal">
       on your
     </div> */}
 
       <div className="flex flex-col items-center justify-center gap-4 justify-center text-lg md:text-xl text-light-green font-normal">
-        Join 50+ beta testers
-        <Link href="https://forms.gle/zMyNUGuY9a4buhZU9">
+        Join 4000+ gamers on waitlist
+        <Link href="https://forms.gle/jzg3Gu6Mxq5E9xY19">
           <button className="py-3 md:py-4 px-6 md:px-10 bg-dark-green text-white rounded-2xl font-bold">
             Get early access
           </button>
